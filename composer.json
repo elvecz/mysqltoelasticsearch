@@ -1,6 +1,7 @@
 {
   "name": "elvecz/mysqltoelasticsearch",
   "type": "package",
+  "version": "dev-master",
   "authors": [
     {
       "name": "Lukas Vavra",
